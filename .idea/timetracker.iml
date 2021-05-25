@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../timetracker">
+      <sourceFolder url="file://$MODULE_DIR$/../timetracker/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../timetracker/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../timetracker/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../timetracker/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../timetracker/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/../timetracker/vendor/mtdowling/jmespath.php" />
+      <excludeFolder url="file://$MODULE_DIR$/../timetracker/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../timetracker/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../timetracker/vendor/phalcon/dd" />
+      <excludeFolder url="file://$MODULE_DIR$/../timetracker/vendor/squizlabs/php_codesniffer" />
+      <excludeFolder url="file://$MODULE_DIR$/../timetracker/vendor/aws/aws-sdk-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../timetracker/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/../timetracker/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/../timetracker/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/../timetracker/vendor/swiftmailer/swiftmailer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
